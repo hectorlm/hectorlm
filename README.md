@@ -1,6 +1,6 @@
 ## Hi, I'm Hector! 👋
 
-I am a researcher and engineer who loves to learn and solve complex problems. I have years of experience implementing solutions in image processing, computer vision, optimization, and data analysis at across different fields. I currently work at NYU Langone Health where I am exploring the use of MRI and ML/DL to help find insights into musculoskeletal diseases and improving patient experience.
+I am a data scientist and researcher who loves to learn and solve complex problems. I have years of experience implementing solutions in image processing, computer vision, optimization, and data analysis at across different fields. I currently work at NYU Langone Health where I am exploring the use of MRI and ML/DL to help find insights into musculoskeletal diseases and improving patient experience.
 
 ## 🚀 About Me
 
