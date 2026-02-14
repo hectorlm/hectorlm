@@ -4,10 +4,9 @@ I am a data/research scientist who loves to learn and solve complex problems. I 
 
 ## 🚀 About Me
 
-- 🌍 I'm based in New York.
-- 📝 I currently work at NYU Langone Health as a Data/Research Cientist looking for answers using MRI technology.
-- 💬 Ask me about one of the projects I worked on at [my page](https://hectorlm.github.io)
-- 🤔 My current research question is how can we improve imaging in a meaningful way to understand knee chronic diseases
+- 🌍 I'm based in Curitiba-Brazil.
+- 📝 I currently work at Immer Messen developing cutting-edge distributed sensing devices
+- 💬 Ask me about the projects we develop at [my page](https://immermesse.com)
 
 
 [![My Skills](https://skillicons.dev/icons?i=git,python,matlab,julia,c,cpp,postgres,pytorch,vscode,django,opencv,sklearn)](https://skillicons.dev)
